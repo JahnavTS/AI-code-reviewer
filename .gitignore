@@ -1,0 +1,12 @@
+# Local environment variables (Keep API keys safe)
+.env
+
+# Virtual environments
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
